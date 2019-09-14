@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XIJLLLPL
+DocumentUniqueId=GTZKYWTM
 
 [Document3]
 DocumentPath=[01] - COVER PAGE.SchDoc
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KJVPXAFT
+DocumentUniqueId=HACQAOZJ
 
 [Document4]
 DocumentPath=[02] - BLOCK DIAGRAM.SchDoc
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DVGGOTBQ
+DocumentUniqueId=MWRUPHAK
 
 [Document5]
 DocumentPath=[XX] - DOC REVISION HISTORY.SchDoc
@@ -120,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OADVUVOD
+DocumentUniqueId=CWWLKIXM
 
 [Document6]
 DocumentPath=SUMOBOTS_PCB_LIB.PcbLib
@@ -172,6 +172,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZNNDVWOQ
+
+[Document9]
+DocumentPath=[04] - SENSORS_AND_ACTUATORS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XGBFTUYN
 
 [Parameter1]
 Name=Company
